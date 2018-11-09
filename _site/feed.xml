@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-11-09T20:38:43+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">XinLu’s blog</title><subtitle>this is XinLu's personal blog.</subtitle><entry><title type="html">学习资源</title><link href="http://localhost:4000/jekyll/update/2018/11/09/ML-resource.html" rel="alternate" type="text/html" title="学习资源" /><published>2018-11-09T18:05:25+08:00</published><updated>2018-11-09T18:05:25+08:00</updated><id>http://localhost:4000/jekyll/update/2018/11/09/ML-resource</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2018/11/09/ML-resource.html">&lt;h2 id=&quot;极大似然估计最大后验概率贝叶斯公式理解&quot;&gt;极大似然估计，最大后验概率，贝叶斯公式理解&lt;/h2&gt;
+&lt;p&gt;https://blog.csdn.net/u011508640/article/details/72815981&lt;/p&gt;
+
+&lt;h2 id=&quot;线性代数的几何意义&quot;&gt;线性代数的几何意义&lt;/h2&gt;
+&lt;p&gt;https://www.cnblogs.com/AndyJee/p/3491458.html&lt;/p&gt;
+
+&lt;h2 id=&quot;奇异值分解&quot;&gt;奇异值分解&lt;/h2&gt;
+&lt;p&gt;http://www.ams.org/publicoutreach/feature-column/fcarc-svd
+http://www.ams.org/publicoutreach/feature-column/fcarc-svd&lt;/p&gt;
+
+&lt;h2 id=&quot;cheat-sheets&quot;&gt;cheat sheets&lt;/h2&gt;
+&lt;p&gt;https://www.analyticsvidhya.com/blog/2017/02/top-28-cheat-sheets-for-machine-learning-data-science-probability-sql-big-data/&lt;/p&gt;
+
+&lt;h2 id=&quot;理解深度学习中的卷积&quot;&gt;理解深度学习中的卷积&lt;/h2&gt;
+&lt;p&gt;http://www.hankcs.com/ml/understanding-the-convolution-in-deep-learning.html&lt;/p&gt;</content><author><name></name></author><summary type="html">极大似然估计，最大后验概率，贝叶斯公式理解 https://blog.csdn.net/u011508640/article/details/72815981</summary></entry></feed>
